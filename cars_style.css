@@ -1,0 +1,24 @@
+
+.Row1, .Row2, .Row3, .Row4{
+    display: flex;
+    justify-content: space-between;
+    padding: 0rem 6rem 4rem 6rem;
+}
+
+.Row1 ul, .Row2 ul, .Row3 ul, .Row4 ul{
+    list-style-type: none;
+    text-align: center;
+    padding: 0
+}
+
+.Row1 div, .Row2 div, .Row3 div, .Row4 div{
+    text-align: center;
+}
+.bookbutton {
+    font-size: 12px;
+    background-color: #a0c800;
+    padding: 8px;
+    position:inherit;
+    color: white;
+    border-radius: 100px;
+  }

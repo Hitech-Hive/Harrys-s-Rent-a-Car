@@ -1,0 +1,29 @@
+.FormSectionWrapper{
+    display: flex;
+    justify-content: center;
+    padding: 0rem 2rem 2rem 2rem;
+}
+#FormImage{
+    height: 500px;
+    border-width: 2px 0 2px 2px;
+    border-color: black;
+    border-style: solid;
+}
+#FormContentContainer{
+    background-color: whitesmoke;
+    width: 650px;
+    height: 500px;
+    display: inline-flex;
+    justify-content: left;
+    border-width: 2px 2px 2px 0;
+    border-color: black;
+    border-style: solid;
+    
+}
+.joinForm{
+    margin-top: 1rem;
+    padding: left 1rem;
+}
+.joinForm div{
+    padding: 2rem 2rem 1.5rem 2rem;
+}

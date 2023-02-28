@@ -1,0 +1,20 @@
+.Aboutlimo figure{
+    float: right;
+}
+.Aboutlimo{
+    padding: 0rem 6rem 4rem 6rem;
+    display: flex;
+    justify-content: space-between;
+}
+.Aboutlimo ul{
+    list-style-type: none;
+}
+
+#Para{
+    background-color: #cfc ;
+    padding: 10px ;
+    border: 1px solid green ;
+    width: 600px;
+    height: 150px;
+    display:inline-bloc
+}
